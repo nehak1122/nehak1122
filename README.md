@@ -3,8 +3,7 @@
 ### 🚀 *Tech Enthusiast | Data Science & Data Analyst | AI & Statistics Explorer*  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nehak1122&label=Profile%20Views&color=blue&style=flat)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20Khetawat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nehakhetawat/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://mac-os-portfolio-one-delta.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20Khetawat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nehakhetawat/)   
 [![GitHub](https://img.shields.io/badge/GitHub-nehak1122-black?style=flat&logo=github)](https://github.com/nehak1122)  
 
 ---
