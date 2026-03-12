@@ -10,10 +10,10 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **M.Sc Data Science Student at MIT ACSC Alandi (CGPA: 9.2)** building **Comprehensive Data Science Projects** and exploring the intersection of  
+I’m a **B.Sc Statistics Student at Pratibha College of Computing and Commerce (CGPA: 8.2)** building **Comprehensive Data Science Projects** and exploring the intersection of  
 **AI, Statistics, cloud, and scalable software engineering**.
 
-- 🎓 **M.Sc Data Science Student @ MIT Alandi (CGPA: 9.2)**
+- 🎓 **Bsc Statistics Student @ Prathibha college (CGPA: 8.2)**
 - 💼 **Internship:** Microsoft & Edunet Foundation — *AI Internship (April 2025)*
 - 🧠 **Exploring:** AI Consulting, LLMs, SaaS Development, Quantitative Development, Data Science, MLOps
 - 🌏 **Location:** Pune, Maharashtra, India
